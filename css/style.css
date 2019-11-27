@@ -1,0 +1,42 @@
+.ride{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.navig{
+    background-color: #424242;
+    color:white;
+    
+}
+.pad{
+    padding-left:10px;
+    padding-right:10px;
+    color:white;
+}
+.first{
+    padding-top:15px;
+}
+.button-1{
+    background-color: rgb(8, 77, 1);
+    color:white;
+    font-size:25px;
+    padding:10px;
+    border-radius:10px;
+}
+.buttn{
+    background-color: rgb(8, 77, 1);
+    color:white;
+    font-size:25px;
+    padding: 5px 10px;
+    border-radius:10px;   
+}
+#footr{
+    padding-top:5px 10px;
+}
+hr{
+    border:1px solid gray;
+    margin-top:40px;
+}
+a:hover{
+    text-decoration:none;
+    color:white;
+}
